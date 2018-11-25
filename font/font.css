@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'HouseCasual';
+	src: url('HouseCasual.eot');
+	src: url('HouseCasual.woff2') format('woff2'), url('HouseCasual.woff') format('woff'), url('HouseCasual.ttf') format('truetype'), url('HouseCasual.svg#HouseCasual') format('svg'), url('HouseCasual.eot?#iefix') format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+}
