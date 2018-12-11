@@ -591,3 +591,14 @@ html, body {
 }
 }
 /*часть 9*/
+/*часть 10*/
+.bacgorund-size-10 {
+	background-color: #333333;
+	color: #FFFFFF;
+	font-weight: 300;
+}
+.basement-header {
+	font-weight: 300;
+    text-align: center;
+}
+/*часть 10*/
