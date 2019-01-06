@@ -95,7 +95,7 @@ html, body {
 	margin-right: .2em;
 	text-align: center;
 	/* opacity: .8; */
- 
+
   /* For safety - reset parent styles, that can break glyph codes*/
 	font-variant: normal;
 	text-transform: none;
@@ -106,7 +106,7 @@ html, body {
 	margin-left: .2em;
 	/* you can be more comfortable with increased icons size */
   /* font-size: 120%; */
- 
+
   /* Font smoothing. That was taken from TWBS */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;/* Uncomment for 3D effect *//* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
@@ -602,3 +602,9 @@ html, body {
     text-align: center;
 }
 /*часть 10*/
+
+/*часть 11*/
+.background-color-f ul {
+	background-color: rgba(0,0,0,0.0);
+}
+/*часть 11*/
